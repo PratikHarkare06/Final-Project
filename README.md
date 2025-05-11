@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calorie Tracker 🍽️📸
 
 ## Overview
@@ -32,3 +33,6 @@ REACT_APP_NUTRITIONIX_API_KEY=your_api_key
 
 ## Note
 This application requires a Nutritionix API key for food image recognition.
+=======
+# CalorieTracker
+>>>>>>> 909e394e6d8c2a749b965880b99fb6a31852f30e
